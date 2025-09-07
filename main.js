@@ -10,7 +10,7 @@ function palindrome(chaine1) {
         
     }
 
-console.log("vrai"); 
+console.log("vrai");
 }
 // la boucle if on compare la premiere lettre  ici le premier rang indice 0 on compare au dernier element chaine1[chaine1.length -1 -i] je compare le premier et le derniet , le 2em et l'avant dernier 
 // si un element est deja comparer , et il reste un unique element , pas besoin de le comparer car il est seule 
